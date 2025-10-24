@@ -4,8 +4,8 @@ import time
 import json
 
 BASE_URL = 'https://hingoli.io/soul'
-SOUL_PATH = '/16008322378515/'
-DONE_PATH = '/16008322378515/done'
+SOUL_PATH = '/77943622482490/'
+DONE_PATH = '/77943622482490/done'
 
 active_tasks = {}
 
